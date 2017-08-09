@@ -7,7 +7,6 @@ Open-Source Tabletop RPG
 ## Combat
 
 ### **Melee Skills**
-
 - Short Blades
 - Long Blades
 - Axe
@@ -15,7 +14,6 @@ Open-Source Tabletop RPG
 
 
 ### **Ranged Skills**
-
 - Thrown Weapons
 - Short Bow
 - Triggered Weapons
@@ -23,23 +21,18 @@ Open-Source Tabletop RPG
 
 
 ### **Defense**
-
 - Light Armor
 - Medium Armor
 - Heavy Armor
 - Dodge
 - Shields
 
-
-### **Battle Magic**
-
-
 ## Gathering
 
 ### **Mining Skills**
 
 
-### ** Fishing Skills **
+### **Fishing Skills**
 
 
 ###  **Hunting Skills** 
@@ -50,13 +43,11 @@ Open-Source Tabletop RPG
 
 ## Artisan
 
-### ** Herblore Skills **
-
+### **Herblore Skills**
 - Foraging
 
 
-### ** Crafting Skills**
-
+### **Crafting Skills**
 - Tailoring
 - Spinning
 - Carpentry 
@@ -67,16 +58,14 @@ Open-Source Tabletop RPG
 - Jewellry
 - Artifice
 
-
 ### **Smithing Skills**
-
 - Ironwork
 - Weaponsmithing
 - Smelting
 - Firemaking
 
 
-### ** Cooking Skills  **
+### **Cooking Skills**
 
 
 ### **Construction Skills**
@@ -94,12 +83,10 @@ Open-Source Tabletop RPG
 
 
 ### **Thieving Skills**
-
 - Lockpicking
 
 
 ### **Dungeoneering Skills**
-
 - Trap Detection
 - Trap Creation
 
@@ -109,7 +96,7 @@ Open-Source Tabletop RPG
 ### **Magic Skills**
 
 
-### **Divination Skills **
+### **Divination Skills**
 
 
 ### **Prayer Skills**
@@ -119,5 +106,4 @@ Open-Source Tabletop RPG
 
 
 ### **Runecrafting Skills**
-
 - Enchanting
