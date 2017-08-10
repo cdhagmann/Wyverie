@@ -1,7 +1,3 @@
-# Wyverie
-Open-Source Tabletop RPG 
-
-
 # Skills
 
 ## Combat
@@ -11,14 +7,17 @@ Open-Source Tabletop RPG
 - Long Blades
 - Axe
 - Mace
-
+- Battle Tactics
+- Combat Maneuvers
 
 ### **Ranged Skills**
-- Thrown Weapons
 - Short Bow
-- Triggered Weapons
 - Long Bow
+- Thrown Weapons
+- Triggered Weapons
 
+### **Mounted Skills**
+- Ride
 
 ### **Defense**
 - Light Armor
@@ -31,32 +30,34 @@ Open-Source Tabletop RPG
 
 ### **Mining Skills**
 
+### **Woodcraft Skills** 
+- Climbing
+- Fishing
+- Swimming
+- Tracking
+- Survival
+- Foraging
 
-### **Fishing Skills**
-
-
-###  **Hunting Skills** 
-
-
-###  **Farming Skills** 
-
+### **Farming Skills** 
+- Handle Animal
+- Agriculture
 
 ## Artisan
 
 ### **Herblore Skills**
-- Foraging
-
+- Mundane Healing
+- Cooking
 
 ### **Crafting Skills**
 - Tailoring
 - Spinning
-- Carpentry 
+- Carving 
 - Fletching
 - Pottery
 - Glassblowing
 - Silversmithing
 - Jewellry
-- Artifice
+- Artificing
 
 ### **Smithing Skills**
 - Ironwork
@@ -64,37 +65,56 @@ Open-Source Tabletop RPG
 - Smelting
 - Firemaking
 
-
-### **Cooking Skills**
-
-
 ### **Construction Skills**
+- Masonry
+- Carpentry
 
-
-### **Invention Skills**
-
-
-### **Carpentry Skills**
-
+### **Nautical Skills**
+- Knot Tying
+- Sailing
 
 ## Support
 
-### **Agility Skills**
-
+### **Performance Skills**
+- Acrobatics
+- Music
+- Acting
+- Bluff
 
 ### **Thieving Skills**
 - Lockpicking
-
-
-### **Dungeoneering Skills**
+- Disguise
+- Escape Artist
+- Sleight of Hand
+- Stealth
 - Trap Detection
 - Trap Creation
 
+### **Merchant Skills**
+- Appraise
+- Trade 
+- Bookkeeping
+
+### **Knowledge Skills**
+- Languages
+- Spellcraft
+- Investigation
+- History
+
+### **Social Skills**
+- Diplomacy
+- Sense Motive
+- Persuasion
 
 ## Magic
 
 ### **Magic Skills**
-
+- Water
+- Fire
+- Earth
+- Air
+- Light
+- Dark
 
 ### **Divination Skills**
 
